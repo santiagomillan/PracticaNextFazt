@@ -1,0 +1,21 @@
+para la cracion de proyectos en next se requiere 2 instalaciones previas
+    npm init -y
+    npm install next react react-dom
+
+Luego se crea la carpeta pages para tener la navegacion de las paginas
+dentro de esta se crean lor archibos 
+
+
+se puede modificar el package.json para ejecutar next acorde al entorno 
+en el que estemos.
+    3 comandos
+    - dev next,(crea un servidor para desarrollo)
+    -build 
+    -start
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+
+para ejecutar 
+    - npm run dev
+
